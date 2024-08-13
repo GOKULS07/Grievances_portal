@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #2c3e50;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex: 1;
+}
+
+.navList li {
+  margin-bottom: 10px;
+}
+
+.navLink {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #34495e;
+}
+
+.navLink:hover {
+  background-color: #1abc9c;
+}
+
+.logout {
+  margin-top: auto;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #ecf0f1;
+}
+
+
+
+.facultyDetails {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.facultyPhoto {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 20px;
+  object-fit: cover;
+  border: 3px solid #1abc9c;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.facultyName {
+  font-size: 1.5em;
+  color: #34495e;
+  margin-bottom: 10px;
+}
+
+.facultyInfo {
+  margin: 0;
+  color: #7f8c8d;
+}
+
+.welcomeMessage {
+  color: #2c3e50;
+  margin-top: 20px;
+}

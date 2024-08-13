@@ -1,0 +1,59 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e4e1e1;
+}
+
+.home-card {
+  background-color: #ffffff;
+  padding:20px;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 300px;
+
+}
+
+.college-logo {
+  width: 200px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 1.5em; 
+  margin-top: 0px; 
+  
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 100px;
+}
+
+.home-button {
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.admin-button {
+  background-color: #0404ff;
+  color: #fff;
+}
+
+.faculty-button {
+  background-color: #0404ff;
+  color: #fff;
+}
+
+.home-button:hover {
+  opacity: 0.5;
+  background-color: #433434;
+}
