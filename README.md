@@ -72,7 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
+Flowcharts:
+![Screenshot 2024-07-16 095434](https://github.com/user-attachments/assets/c794a48c-667a-4368-b932-c0f8c22001c3)
 
 
 ![Screenshot 2024-08-13 161958](https://github.com/user-attachments/assets/45453773-0684-487d-956c-2729b304cbe0)
