@@ -76,12 +76,15 @@ Flowcharts:
 ![Screenshot 2024-07-16 095434](https://github.com/user-attachments/assets/c794a48c-667a-4368-b932-c0f8c22001c3)
 
 
+HomePage:
 ![Screenshot 2024-08-13 161958](https://github.com/user-attachments/assets/45453773-0684-487d-956c-2729b304cbe0)
 
 
+AdminLoginPage:
 ![Screenshot 2024-08-13 162008](https://github.com/user-attachments/assets/fe0fcf0b-e33e-4aac-acc2-0ec163b196a4)
 
 
+AdminDashboardPage:
 ![Screenshot 2024-08-13 162019](https://github.com/user-attachments/assets/e7eff182-3753-4907-8e95-8e0438c601bc)
 
 
